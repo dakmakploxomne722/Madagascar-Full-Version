@@ -247,4 +247,4 @@ This repository serves as the official landing page for Madagascar. The software
 **Get the most recent version of Madagascar today!**
 
 ---
-**Last updated:** 2026-09-16 09:05:46 UTC
+**Last updated:** 2026-09-16 14:36:54 UTC
